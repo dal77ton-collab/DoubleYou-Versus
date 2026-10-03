@@ -1,0 +1,11 @@
+DOUBLEYOU VERSUS — play on this laptop
+
+Your laptop Chrome cannot open shipstatic.com (ERR_QUIC_PROTOCOL_ERROR).
+Play the game from this folder instead.
+
+1. Unzip this folder if needed.
+2. Double-click start-game.bat
+3. If Windows asks, click More info -> Run anyway
+4. Chrome should open http://127.0.0.1:8765
+5. Leave the black window open while you play
+6. Close that window when you are done

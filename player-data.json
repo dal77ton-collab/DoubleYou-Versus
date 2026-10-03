@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "exportedAt": null,
+  "account": {
+    "name": "PLAYER",
+    "email": "",
+    "registered": false,
+    "coins": 50
+  },
+  "rank": {
+    "id": "rookie",
+    "name": "ROOKIE",
+    "index": 1,
+    "cp": 0
+  },
+  "stats": {
+    "quick": { "played": 0, "wins": 0, "losses": 0 },
+    "competitive": { "played": 0, "wins": 0, "losses": 0 }
+  },
+  "characters": {},
+  "accolades": {
+    "ranks": ["ROOKIE"],
+    "masteries": {},
+    "titles": []
+  },
+  "profilePicture": null,
+  "ownedProfilePictures": [],
+  "cosmetics": [],
+  "equipped": { "aura": null, "title": null, "skin": {} },
+  "payments": [],
+  "itemsBought": [],
+  "itemsEarned": [],
+  "matchHistory": []
+}
